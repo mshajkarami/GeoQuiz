@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="false_text">false</string>
+    <string name="true_text">true</string>
+    <string name="question1">Canberra is the capital of Australia?</string>
+    <string name="question2">The Great Wall of China is visible from space?</string>
+    <string name="question3">Mount Everest is the tallest mountain in the world?</string>
+    <string name="question4">The Amazon River is the longest river in the world?</string>
+    <string name="question5">The Eiffel Tower is located in Rome?</string>
+    <string name="question6">The Sahara is the largest desert in the world?</string>
+    <string name="correct_toast">correct!</string>
+    <string name="incorrect_toast">incorrect!</string>
+    <string name="btn_next">Next</string>
+</resources>
+
