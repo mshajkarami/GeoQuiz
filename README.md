@@ -1,5 +1,7 @@
 # GeoQuiz
 
+![GeoQuiz Home](https://github.com/mshajkarami/GeoQuiz/blob/main/home.png)
+
 GeoQuiz is an interactive quiz game that tests your knowledge about geography. The game challenges players with various geography-related questions, allowing them to improve their knowledge about countries, capitals, landmarks, and more.
 
 ## Features
@@ -27,3 +29,4 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/GeoQuiz.git
+
