@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="66" viewBox="0 0 400 66">
+  <g id="quize_back" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="400" height="66" rx="33" stroke="none"/>
+    <rect x="0.5" y="0.5" width="399" height="65" rx="32.5" fill="none"/>
+  </g>
+</svg>
